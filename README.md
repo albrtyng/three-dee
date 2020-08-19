@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made to mess around with some 3-D objects in React
 
 ## Available Scripts
 
